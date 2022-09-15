@@ -1,33 +1,4 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
-
-@jpeter27
-reactbuch
-/
-vote-example-v2
-Public
-Code
-Issues
-1
-Pull requests
-18
-Actions
-Projects
-Security
-Insights
-vote-example-v2/app/src/index.css
-@nilshartmann
-nilshartmann Zweite Auflage
-Latest commit 4df5deb on 5 Dec 2019
-History
-1 contributor
-456 lines (391 sloc)  7.57 KB
-
-  /* https://www.google.com/fonts#UsePlace:use/Collection:Lora:400italic,700italic|PT+Sans:400,700 */
+/* https://www.google.com/fonts#UsePlace:use/Collection:Lora:400italic,700italic|PT+Sans:400,700 */
 html {
   line-height: 1.5;
   font-family: "PT Sans", sans-serif;
